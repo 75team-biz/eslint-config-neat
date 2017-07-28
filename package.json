@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-neat",
+  "version": "1.0.0",
+  "description": "ESLint config for writing clean JavaScript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/75team-biz/eslint-config-neat"
+  },
+  "keywords": [
+    "ESLint"
+  ],
+  "author": "webzhao@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/75team-biz/eslint-config-neat/issues"
+  },
+  "homepage": "https://github.com/75team-biz/eslint-config-neat",
+  "dependencies": {
+    "eslint-config-standard": "^10.2.1"
+  }
+}
