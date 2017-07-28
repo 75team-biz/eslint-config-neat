@@ -10,7 +10,7 @@ Install ESLint and this config package:
 npm install --save-dev eslint eslint-config-neat
 ```
 
-Then, extends `eslint-config-neat` in your `.eslintrc.*` file. An example config:
+Then, extends `neat` in your `.eslintrc.*` file. An example config:
 
 ```json
 {
