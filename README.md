@@ -14,7 +14,7 @@ Then, extends `eslint-config-neat` in your `.eslintrc.*` file. An example config
 
 ```json
 {
-  "extends": "standard",
+  "extends": "neat",
   "env": {
     "browser": true,
     "node": true
